@@ -5,7 +5,9 @@ binary.tar.gz is a large file. You need to install git lfs to download it.
 Follow these steps： 
 
 sudo apt-get update
+
 sudo apt-get install git-lfs
+
 git lfs install
 
 sudo apt-get install qemu-user-static  
